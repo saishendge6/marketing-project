@@ -219,6 +219,16 @@ DELIVERABLES
 3. Marketing_Insights_Report.txt — Comprehensive 6-question insights document
 4. README.md — This project documentation file
 
+
+
+## 👥 Contributors
+
+| Name | Role | GitHub |
+|------|------|--------|
+| Sai Shendge | Developer & Designer | [@saishendge6](https://github.com/saishendge6) |
+
+Special thanks to the VITALROOT team for the portfolio project opportunity.
+
 CONTACT & LICENSING
 -------------------
 This project is for portfolio and recruitment purposes. The dataset is entirely simulated.
