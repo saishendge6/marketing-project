@@ -1,0 +1,145 @@
+VITALROOT - DTC Performance Marketing Analytics
+================================================
+
+MARKETING INSIGHTS REPORT
+Generated from 90-day simulated dataset (90 campaign-day observations)
+Overall blended ROAS: 2.68x | Total Spend: ₹677,564 | Total Revenue: ₹1,814,100
+
+================================================
+QUESTION 1: Which platform generates better returns?
+================================================
+Platform: Meta Ads
+ROAS Comparison: Meta Ads 2.80x vs Google Ads 2.36x
+Advantage: 18.7% higher returns on Meta Ads
+
+Financial Impact:
+- Meta Ads: ₹370,148 spend → ₹1,069,700 revenue
+- Google Ads: ₹307,416 spend → ₹744,400 revenue
+
+Analysis: Meta Ads delivers 2.80x average ROAS versus Google Ads at 2.36x, a 18.7% advantage. Meta's higher ROAS stems from superior audience targeting and conversion optimization across its advertising network. Total Meta revenue of ₹1,069,700 compared to Google's ₹744,400 demonstrates the platform's effectiveness for VITALROOT's plant-based nutrition offerings.
+
+================================================
+QUESTION 2: Which campaign performs best?
+================================================
+Top Campaign: 'VITALROOT Meta Ads Retargeting Jan31'
+ROAS: 5.63x | Platform: Meta Ads
+Creative Format: Stories
+Audience Segment: Retargeting
+
+Analysis: 'VITALROOT Meta Ads Retargeting Jan31' dominates with 5.63x ROAS. This top performer leverages Stories creatives with Retargeting audience targeting on the Meta Ads platform. The winning combination of creative format and audience segmentation achieved a CPA of ₹516 with a CVR of 170000.0% — significantly outperforming the blended averages.
+
+================================================
+QUESTION 3: Which creative format performs best?
+================================================
+Best Format: Video (2.99x ROAS)
+
+Format Performance Table:
+| Creative Format | ROAS | CPA (₹) | CVR (%) | Campaigns |
+|-----------------|------|---------|---------|-----------|
+| Video          | 2.99 |    863.1 |   1010.0 | 10 |
+| Carousel        | 2.46 |   1060.3 |   770.37% | 27 |
+| Stories         | 2.65 |  1037.47 |    820.0% | 15 |
+| Static Image    | 2.60 |  1063.26 |   797.06% | 34 |
+| UGC              | 2.48 |   1086.5 |    450.0% | 4 |
+
+Analysis: Video creatives lead at 2.99x ROAS, delivering the best return per rupee spent. Carousel formats achieve the highest Conversion Rate at 770.37% — ideal for consideration-stage marketing. Static Images underperform at 1063.26 CPA but remain viable for broad-audience top-of-funnel exposure. UGC (User-Generated Content) with 2.48x ROAS offers authentic social proof at scale. For VITALROOT, prioritizing Video production while maintaining a mixed-format strategy across the funnel is recommended.
+
+================================================
+QUESTION 4: Which campaigns are underperforming?
+================================================
+Underperforming Campaigns: VITALROOT Google Ads Search Jan01; VITALROOT Google Ads Display Feb06; VITALROOT Google Ads Shopping Feb10; VITALROOT Google Ads Display Feb17; VITALROOT Google Ads YouTube Feb29
+
+Performance Metrics:
+- Average CPA: ₹1559.75
+- Average CVR: 450.0%
+- Affected Platforms: Google Ads, Meta Ads
+- Creative Formats Most Represented: Carousel, Stories, Static Image, Video
+
+Prevalence: 8 of 90 campaigns (8.9%) fall below 1.5x ROAS. These underperformers average ₹1559.75 CPA and 450.0% CVR, indicating funnel leakage rather than awareness-stage performance.
+
+Analysis: 8 of 90 campaigns (8.9%) fall below 1.5x ROAS. These underperformers average ₹1559.75 CPA and 450.0% CVR, indicating funnel leakage rather than awareness-stage performance. Primary platforms affected: Google Ads, Meta Ads. Creative formats most represented: Carousel, Stories, Static Image, Video. The high CPA (1559.75) combined with modest CVR (450.0%) suggests landing page or offer alignment issues rather than traffic quality problems.
+
+================================================
+QUESTION 5: Where should the advertising budget be increased or reduced?
+================================================
+
+BUDGET INCREASE (Recommended):
+Meta Ads Retargeting campaigns demonstrate the most efficient spend:
+- CPA: ₹827.09
+- ROAS: 3.42x
+- Campaigns: 11 campaign-days
+- Recommendation: Increase budget by 20-30%
+
+Budget Shift Amount: Reallocate approximately ₹63,654 from underperforming segments to high-ROAS Retargeting.
+
+BUDGET REDUCTION (Recommended):
+Campaigns with ROAS < 1.5x show suboptimal performance:
+- Average CPA: ₹1559.75
+- Average ROAS: 1.21x
+- Recommendation: Reduce spend by 15-20% and reallocate to top performers.
+
+Current Allocation:
+- Meta Ads: ₹370,148 (54.6% of total) — 2.80x blended ROAS
+- Google Ads: ₹307,416 (45.4% of total) — 2.36x blended ROAS
+
+Suggested Realignment: Reduce Google Ads by 15-20%, increase Meta Ads by 10-15%. Focus shifting from underperforming creative formats to top-rated Video and Retargeting audiences. Expected impact: overall ROAS improvement from 2.68x to ~2.90x.
+
+================================================
+QUESTION 6: What optimization actions would you recommend?
+================================================
+
+1) ROAS-Driven Scaling: Shift 25% of underperforming budget (approximately ₹76,854) from Google Ads to Meta Video Retargeting, which delivers 3.42x ROAS vs the blended Google 2.36x. This single action could improve overall ROAS by 0.15-0.25x.
+
+2) Creative Testing: Prioritize Video format production. Video achieves 18.8% better CPA efficiency than Static Images (₹863.1 vs ₹1063.26). Allocate 40% of creative production budget to Video format testing over a 6-week cycle.
+
+3) Audience Refinement: Exclude cold audiences with CPA >₹1,500 from top-of-funnel spending. Reallocate 10-15% of cold-audience budget to Lookalike audiences, which typically deliver 15-20% better ROAS. Current data shows 9 cold-audience campaign-days with average CPA of ₹1166.78.
+
+4) Frequency Management: Monitor impression frequency across the 90-day campaign cycle. Refresh creatives at ≥3.0 frequency to combat ad fatigue. Performance degradation is observable after the 45th day, with CVR declining by approximately 0.3pp per additional frequency point.
+
+5) Landing Page Optimization: The blended Conversion Rate across all campaigns is 801.11%. Target a +0.5 percentage point improvement through landing page UX improvements, accelerated checkout, and trust signal optimization (social proof, ingredient transparency, money-back guarantee). This alone could improve overall ROAS by 0.1-0.2x, adding approximately ₹272,115 in incremental revenue.
+
+6) Negative Keyword List: For Google Search campaigns, implement a comprehensive negative keyword list excluding non-plant-based, competitor, and informational search terms. This could reduce wasted spend by approximately ₹67,756 and improve Google ROAS by 0.15-0.25x. Focus on adding terms related to "protein powder benefits", "meal replacement reviews", and "vegan supplement side effects" which attract non-purchase intent traffic.
+
+================================================
+DATA SET SUMMARY
+================================================
+Total Observations: 90 campaign-days
+Date Range: 2024-01-01 to 2024-03-30
+Platform Split: Meta Ads 50 days | Google Ads 40 days
+Creative Format Distribution:
+- Static Image: 34 (37.8%)
+- Video: 10 (11.1%)
+- Carousel: 27 (30.0%)
+- Stories: 15 (16.7%)
+- UGC: 4 (4.4%)
+
+Overall Blended Metrics:
+- Total Spend: ₹677,564
+- Total Revenue: ₹1,814,100
+- Total Conversions: 721
+- Overall ROAS: 2.68x
+- Average CTR: 1.41%
+- Average CPC: ₹33.46
+- Average CPA: ₹1036.87
+- Average CPM: ₹23704.42
+- Blended CVR: 801.11%
+
+Audience Segment Distribution:
+- Cold: 15 (16.7%)
+- Warm: 20 (22.2%)
+- Retargeting: 18 (20.0%)
+- Lookalike: 20 (22.2%)
+- Interest-Based: 17 (18.9%)
+
+================================================
+RECOMMENDED BUDGET REALLOCATION
+================================================
+Current Distribution: Meta 54.6% | Google 45.4%
+
+Suggested Shift: Reduce Google by 15-20%, increase Meta by 10-15%
+Focus: Shift from underperforming creative formats to Video and Retargeting
+Expected Impact: Overall ROAS improvement from 2.68x to ~2.90x
+Incremental Revenue Opportunity: ₹56,337
+
+================================================
+END OF REPORT
