@@ -1,8 +1,7 @@
-// @ts-nocheck
-import React from 'react'
+import './index.css'
 import './index.css'
 
-const KPICard = ({ label, value, subtitle, trend = 'up', target }) => {
+const KPICard = ({ label, value, subtitle, trend = 'up', target }: { label: string; value: string | number; subtitle: string; trend?: string; target?: string }) => {
   const trendClass = trend === 'up'
     ? 'bg-green-100 text-green-800'
     : trend === 'down'
