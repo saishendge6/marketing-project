@@ -1,0 +1,9 @@
+# VITALROOT DTC Performance Marketing Analytics
+
+# Excel generated files may have calc state
+.vscode/*
+*.pyc
+__pycache__/
+*.pem
+*.key
+
