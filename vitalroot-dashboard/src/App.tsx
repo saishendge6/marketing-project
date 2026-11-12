@@ -1,4 +1,5 @@
 import './index.css'
+import './index.css'
 
 const KPICard = ({ label, value, subtitle, trend = 'up', target }: { label: string; value: string | number; subtitle: string; trend?: string; target?: string }) => {
   const trendClass = trend === 'up'
